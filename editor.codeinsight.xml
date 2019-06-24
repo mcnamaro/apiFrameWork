@@ -1,0 +1,5 @@
+<application>
+  <component name="CodeInsightSettings">
+    <EXCLUDED_PACKAGE NAME="DemoLog4j.LogginDemo.log" />
+  </component>
+</application>

@@ -1,0 +1,10 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="klib" type="ARCHIVE" />
+      <mapping ext="features" type="Cucumber" />
+      <mapping pattern="TestNG-Parameters.xml" type="PLAIN_TEXT" />
+      <mapping pattern="TestNG-Parameters" type="XML" />
+    </extensionMap>
+  </component>
+</application>

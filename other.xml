@@ -1,0 +1,105 @@
+<application>
+  <component name="CvsApplicationLevelConfiguration">
+    <Configuration>
+      <option name="CVS_ROOT" value="git clone https://sariev@bitbucket.org/sariev/chicagofinalproject.git" />
+      <option name="PATH_TO_WORKING_FOLDER" value="" />
+      <option name="PROXY_SETTINGS">
+        <value>
+          <option name="USE_PROXY" value="false" />
+          <option name="PROXY_HOST" value="" />
+          <option name="PROXY_PORT" value="8080" />
+          <option name="TYPE" value="0" />
+          <option name="LOGIN" value="" />
+          <option name="PASSWORD" value="" />
+        </value>
+      </option>
+      <option name="EXT_CONFIGURATION">
+        <value>
+          <option name="CVS_RSH" value="ssh" />
+          <option name="PRIVATE_KEY_FILE" value="" />
+          <option name="ADDITIONAL_PARAMETERS" value="" />
+          <option name="USE_INTERNAL_SSH_IMPLEMENTATION" value="false" />
+        </value>
+      </option>
+      <option name="SSH_CONFIGURATION">
+        <value SSH_TYPE="SSH1, SSH2">
+          <option name="USE_PPK" value="false" />
+          <option name="PATH_TO_PPK" value="" />
+        </value>
+      </option>
+      <option name="SSH_FOR_EXT_CONFIGURATION">
+        <value SSH_TYPE="SSH1, SSH2">
+          <option name="USE_PPK" value="false" />
+          <option name="PATH_TO_PPK" value="" />
+        </value>
+      </option>
+      <option name="LOCAL_CONFIGURATION">
+        <value>
+          <option name="PATH_TO_CVS_CLIENT" value="cvs" />
+        </value>
+      </option>
+      <option name="DATE_OR_REVISION_SETTINGS">
+        <value>
+          <option name="BRANCH" value="" />
+          <option name="DATE" value="Thu Feb 07 17:24:47 2019" />
+          <option name="USE_BRANCH" value="false" />
+          <option name="USE_DATE" value="false" />
+        </value>
+      </option>
+    </Configuration>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.62068963" />
+    <property name="CommitChangeListDialog.SPLITTER_PROPORTION_2" value="0.6704545" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="Default.savedEditorTheme" value="_@user_Default" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FileColorsForProjectViewEnabled" value="true" />
+    <property name="FileColorsForTabsEnabled" value="true" />
+    <property name="FileTemplates.SelectedTemplate" value="XSLT Stylesheet" />
+    <property name="GradleModuleWizard.inheritGroupId" value="true" />
+    <property name="GradleModuleWizard.inheritVersion" value="true" />
+    <property name="IJ_BASE_PACKAGE" value="com.company" />
+    <property name="JUnit.Splitter.Proportion" value="0.20340294" />
+    <property name="JUnitSupport.hidePassedTests" value="false" />
+    <property name="LayoutCode.optimizeImports" value="false" />
+    <property name="LayoutCode.rearrangeEntriesGherkin" value="false" />
+    <property name="MavenModuleWizard.inheritGroupId" value="true" />
+    <property name="MavenModuleWizard.inheritVersion" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="PLUGIN_FILTER" value="bi&#10;bit&#10;b&#10;Bitbucket&#10;ec" />
+    <property name="SearchEveryWhereHistory" value="preference&#10;theme&#10;prefere&#10;maven" />
+    <property name="SettingsSearchHistory" value="cuc&#10;commit changes&#10;directories&#10;Test&#10;create new folder" />
+    <property name="TEMPLATES_FILTER_HISTORY" value="Java" />
+    <property name="TestNG.Splitter.Proportion" value="0.3093581" />
+    <property name="TestNGSupport.hideConfig" value="true" />
+    <property name="TestNGSupport.hidePassedTests" value="false" />
+    <property name="TrendingPluginsSearchHistory" value="Eclipse&#10;Eclipse-Dark Color&#10;yaml&#10;lom&#10;Node.js" />
+    <property name="build.toolwindow.Sync.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="com.atlassian.bitbucket.linky.configuration" value="0.48767835" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="11" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Paths" />
+    <property name="create.project.preferred.importer" value="Existing Sources" />
+    <property name="cucumber.Splitter.Proportion" value="0.1616396" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="defaultJdkConfigured" value="true" />
+    <property name="disable.forced.soft.wraps.notification" value="true" />
+    <property name="eclipse.project.dir" value="C:\" />
+    <property name="file.chooser.recent.files" value="C:/ProjectsMaven/APIAutomationUsingHTTPClient&#10;C:/ProjectsMaven/Vending&#10;C:/ProjectsMaven&#10;C:/Users/kamil/Desktop/TempusPro&#10;C:/ProjectsMaven/cucumber-junit-automation&#10;C:/ProjectsMaven/ExtentReportsAdvancedReporting/src/test/java/multiplyTestCases.xml&#10;C:/ProjectsMaven/TestNG/testng-reportsAndlogs.xml&#10;C:/ProjectsMaven/TestNG/testng-listeners.xml&#10;C:/ProjectsMaven/TestNG/testng-selenium-parallel.xml&#10;C:/ProjectsMaven/TestNG/testNG_Parallel.xml&#10;C:/ProjectsMaven/TestNG/TestNG-Parameters.xml&#10;C:/ProjectsMaven/TestNG/testng_preserve_enable.xml&#10;C:/ProjectsMaven/TestNG/TestNG.xml&#10;C:/ProjectsMaven/Log4jDemo/resources/Log4j2.xml&#10;C:/ProjectsMaven/Log4jDemo/resources&#10;C:/ProjectsMaven/PianoPro&#10;C:/Projects&#10;C:/InstagramPro&#10;C:/JavaProjects&#10;C:/Users/kamil/Desktop/BJ/comp4004-blackjack-master/pom.xml&#10;C:/Users/kamil/Desktop/BJ&#10;C:/Users/kamil/Desktop/BlackJackProject&#10;C:/Users/kamil/Desktop/BlackJackProject/comp4004-blackjack-master&#10;C:/Users/kamil&#10;C:/Users/kamil/Desktop/Monday Project 12032018/BigInteger&#10;C:/Users/kamil/Desktop/MondayProject12032018&#10;C:/Users/kamil/Desktop/interview ques udemy&#10;C:/Users/kamil/Udemy&#10;C:/Users/kamil/Desktop/OnlineStoreProject&#10;C:/Users/Selenium/drivers" />
+    <property name="file.gist.reindex.count" value="631" />
+    <property name="fileTypeChangedCounter" value="6" />
+    <property name="ignoreUltimateEdition" value="true" />
+    <property name="installed.kotlin.plugin.version" value="1.3.11-release-IJ2018.3-1" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last.imported.location" value="$USER_HOME$/Desktop/BJ" />
+    <property name="lastTip" value="7" />
+    <property name="plugins.preselection.path" value="$USER_HOME$/Downloads" />
+    <property name="project.wizard.group" value="org.jetbrains.idea.maven.wizards.MavenModuleBuilder" />
+    <property name="project.wizard.template" value="Maven" />
+    <property name="search.everywhere.max.popup.width" value="620" />
+    <property name="selected.color.option.type" value="GHERKIN_COMMENT" />
+  </component>
+</application>
