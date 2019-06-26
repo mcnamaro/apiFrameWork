@@ -40,7 +40,7 @@ public class BaseStep {
         YamlService service = yaml.load(inputStream);
         if (service.getRequest().equalsIgnoreCase("GET")) {
             getAPITestWithHeaders(service.getService());
-            getAPITestWithoutHeaders(service.getService());
+          //  getAPITestWithoutHeaders(service.getService());
         }
         if (service.getRequest().equalsIgnoreCase("POST")) {
 
